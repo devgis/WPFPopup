@@ -1,0 +1,31 @@
+E:\C#作品\弹窗控件\弹窗控件\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#作品\弹窗控件\弹窗控件\obj\x86\Debug\弹窗控件.Form1.resources
+E:\C#作品\弹窗控件\弹窗控件\obj\x86\Debug\弹窗控件.Properties.Resources.resources
+E:\C#作品\弹窗控件\弹窗控件\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#作品\弹窗控件\弹窗控件\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#作品\弹窗控件\弹窗控件\bin\Debug\弹窗控件.exe
+E:\C#作品\弹窗控件\弹窗控件\bin\Debug\弹窗控件.pdb
+E:\C#作品\弹窗控件\弹窗控件\obj\x86\Debug\弹窗控件.exe
+E:\C#作品\弹窗控件\弹窗控件\obj\x86\Debug\弹窗控件.pdb
+E:\C#作品\弹窗控件\弹窗控件\obj\x86\Debug\弹窗控件.Resource1.resources
+C:\Documents and Settings\Administrator\桌面\弹窗控件\弹窗控件\obj\x86\Debug\弹窗控件.exe
+C:\Documents and Settings\Administrator\桌面\弹窗控件\弹窗控件\obj\x86\Debug\弹窗控件.pdb
+C:\Documents and Settings\Administrator\桌面\弹窗控件\弹窗控件\bin\Debug\弹窗控件.exe
+C:\Documents and Settings\Administrator\桌面\弹窗控件\弹窗控件\bin\Debug\弹窗控件.pdb
+C:\Documents and Settings\Administrator\桌面\弹窗控件\弹窗控件\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\弹窗控件\弹窗控件\obj\x86\Debug\弹窗控件.Form1.resources
+C:\Documents and Settings\Administrator\桌面\弹窗控件\弹窗控件\obj\x86\Debug\弹窗控件.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\弹窗控件\弹窗控件\obj\x86\Debug\弹窗控件.Resource1.resources
+C:\Documents and Settings\Administrator\桌面\弹窗控件\弹窗控件\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\弹窗控件\弹窗控件\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\obj\x86\Debug\弹窗控件.exe
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\obj\x86\Debug\弹窗控件.pdb
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\bin\Debug\弹窗控件.exe
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\bin\Debug\弹窗控件.pdb
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\obj\x86\Debug\弹窗控件.Form1.resources
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\obj\x86\Debug\弹窗控件.Properties.Resources.resources
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\obj\x86\Debug\弹窗控件.Resource1.resources
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\obj\x86\Debug\弹窗控件.csproj.GenerateResource.Cache
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\bin\Debug\PopUp_YuanFang.dll
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\obj\x86\Debug\弹窗控件.csprojResolveAssemblyReference.cache
+C:\Users\liyafei\Downloads\弹窗控件2012年7月30日\弹窗控件\bin\Debug\弹窗控件.exe.config
